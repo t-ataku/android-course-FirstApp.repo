@@ -30,21 +30,20 @@ application.
 ## Prerequisite
 
 This course expects you already know about
-1. kotlin language
-   It doesn't mean you can't read this course, even if you are not familiar with kotlin.
-   It simply says nothing will be described in it.
-   If you so, you might need to consult another course.
-1. Event handler in GUI element
-   Like other window system, it uses event handling mechanisms for each GUI element such as Button.
-   Although it was difficult point for me in my days, but I can't
-   explain it well.
-   So, if you aren't familier with it, you might need to learn event
-   handling in window system before starting the course.
-   Also, I request you not to expect the following topics:
-1. GUI design
-   You never know about it in the course.
-   In addition, never ask me about the topic.
-   I may not provide any information for you.
+<dl><dt>kotlin language</dt>
+<dd>It doesn't mean you can't read this course, even if you are not familiar with kotlin.
+It simply says nothing will be described in it.
+If you so, you might need to consult another course.</dd>
+<dt>Event handler in GUI element</dt>
+<dd>Like other window system, it uses event handling mechanisms for each GUI element such as Button.
+Although it was difficult point for me in my days, but I can't explain it well.
+So, if you aren't familier with it, you might need to learn event handling in window system before starting the course.</dd>
+
+Also, I request you not to expect the following topics:
+<dt>GUI design</dt>
+<dd>You never know about it in the course.
+In addition, never ask me about the topic.
+I may not provide any information for you.</dd>
 
 ## Creating new project
 
