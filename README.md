@@ -31,10 +31,12 @@ application.
 
 This course expects you already know about
 * kotlin language
+
 It doesn't mean you can't read this course, even if you are not familiar with kotlin.
 It simply says nothing will be described in it.
 If you so, you might need to consult another course.
 * Event handler in GUI element
+
 Like other window system, it uses event handling mechanisms for each
 GUI element such as Button.
 Although it was difficult point for me in my days, but I can't explain
